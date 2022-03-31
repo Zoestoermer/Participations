@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j5MqrOHQf7OrvUypU3upwlEPfQJmWXtchU8OqaIQ0k/Q16SK2RhMmK2zRgKgD84lK9UFSYMrd7N+brbPOAdIpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stoe0002\\source\\repos\\Participations\\Participations\\ClassGrades\\ClassGrades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stoe0002\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

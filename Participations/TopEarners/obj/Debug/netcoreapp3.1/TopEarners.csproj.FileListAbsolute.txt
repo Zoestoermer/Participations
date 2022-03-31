@@ -1,0 +1,14 @@
+C:\Users\stoe0002\Source\Repos\Participations\Participations\TopEarners\bin\Debug\netcoreapp3.1\TopEarners.exe
+C:\Users\stoe0002\Source\Repos\Participations\Participations\TopEarners\bin\Debug\netcoreapp3.1\TopEarners.deps.json
+C:\Users\stoe0002\Source\Repos\Participations\Participations\TopEarners\bin\Debug\netcoreapp3.1\TopEarners.runtimeconfig.json
+C:\Users\stoe0002\Source\Repos\Participations\Participations\TopEarners\bin\Debug\netcoreapp3.1\TopEarners.runtimeconfig.dev.json
+C:\Users\stoe0002\Source\Repos\Participations\Participations\TopEarners\bin\Debug\netcoreapp3.1\TopEarners.dll
+C:\Users\stoe0002\Source\Repos\Participations\Participations\TopEarners\bin\Debug\netcoreapp3.1\TopEarners.pdb
+C:\Users\stoe0002\Source\Repos\Participations\Participations\TopEarners\obj\Debug\netcoreapp3.1\TopEarners.csproj.AssemblyReference.cache
+C:\Users\stoe0002\Source\Repos\Participations\Participations\TopEarners\obj\Debug\netcoreapp3.1\TopEarners.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoe0002\Source\Repos\Participations\Participations\TopEarners\obj\Debug\netcoreapp3.1\TopEarners.AssemblyInfoInputs.cache
+C:\Users\stoe0002\Source\Repos\Participations\Participations\TopEarners\obj\Debug\netcoreapp3.1\TopEarners.AssemblyInfo.cs
+C:\Users\stoe0002\Source\Repos\Participations\Participations\TopEarners\obj\Debug\netcoreapp3.1\TopEarners.csproj.CoreCompileInputs.cache
+C:\Users\stoe0002\Source\Repos\Participations\Participations\TopEarners\obj\Debug\netcoreapp3.1\TopEarners.dll
+C:\Users\stoe0002\Source\Repos\Participations\Participations\TopEarners\obj\Debug\netcoreapp3.1\TopEarners.pdb
+C:\Users\stoe0002\Source\Repos\Participations\Participations\TopEarners\obj\Debug\netcoreapp3.1\TopEarners.genruntimeconfig.cache

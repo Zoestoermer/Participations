@@ -7,7 +7,7 @@ namespace TopEarners
     {
         static void Main(string[] args)
         {
-            string title = "---Top Earners___";
+            string title = "---Top Earners---";
             Console.SetCursorPosition((Console.WindowWidth - title.Length) / 2, (Console.CursorTop));
             Console.WriteLine(title);
 

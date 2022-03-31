@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S30RcYROp/EXfEs5zwPhIwFWO5TSojfC8yHi2PvFXmz2AHV2D6X3oA3fX67llXJ9HheP89ib2teK0caL4m/OJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stoe0002\\Source\\Repos\\Participations\\Participations\\10.1TopEarners\\10.1TopEarners.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stoe0002\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

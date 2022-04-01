@@ -12,7 +12,7 @@ namespace ClassGrades
             string[] firstName = new string[3];
             string[] lastName = new string[3];
 
-            for (int i = 0; i <= firstName.Length; i++)
+            for (int i = 0; i < firstName.Length; i++)
             {
                 Console.WriteLine("Please input the earner's first name.");
                 firstName[i] = Console.ReadLine().Trim();
@@ -24,7 +24,7 @@ namespace ClassGrades
             Dictionary<int, string> salesPeople = new Dictionary<int, string>();
             bool isNumber = false;
             int employeeNumber = 0;
-            for (int i = 0; i <= firstName.Length; i++)
+            for (int i = 0; i < firstName.Length; i++)
             {
                 do
                 {

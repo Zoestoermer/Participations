@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stoe0002\\Source\\Repos\\Participations\\Participations\\10.1TopEarners\\10.1TopEarners.csproj",
+      "projectUniqueName": "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\10.1TopEarners\\10.1TopEarners.csproj",
       "projectName": "10.1TopEarners",
-      "projectPath": "C:\\Users\\stoe0002\\Source\\Repos\\Participations\\Participations\\10.1TopEarners\\10.1TopEarners.csproj",
+      "projectPath": "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\10.1TopEarners\\10.1TopEarners.csproj",
       "packagesPath": "C:\\Users\\stoe0002\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stoe0002\\Source\\Repos\\Participations\\Participations\\10.1TopEarners\\obj\\",
+      "outputPath": "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\10.1TopEarners\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

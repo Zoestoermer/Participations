@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stoe0002\\Source\\Repos\\Participations\\Participations\\TopEarners\\TopEarners.csproj": {}
+    "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\TopEarners\\TopEarners.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stoe0002\\Source\\Repos\\Participations\\Participations\\TopEarners\\TopEarners.csproj": {
+    "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\TopEarners\\TopEarners.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stoe0002\\Source\\Repos\\Participations\\Participations\\TopEarners\\TopEarners.csproj",
+        "projectUniqueName": "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\TopEarners\\TopEarners.csproj",
         "projectName": "TopEarners",
-        "projectPath": "C:\\Users\\stoe0002\\Source\\Repos\\Participations\\Participations\\TopEarners\\TopEarners.csproj",
+        "projectPath": "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\TopEarners\\TopEarners.csproj",
         "packagesPath": "C:\\Users\\stoe0002\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stoe0002\\Source\\Repos\\Participations\\Participations\\TopEarners\\obj\\",
+        "outputPath": "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\TopEarners\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -5,9 +5,11 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopEarners", "TopEarners\TopEarners.csproj", "{D80783B8-A004-4E09-B754-1E5491088245}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.1TopEarners", "10.1TopEarners\10.1TopEarners.csproj", "{F655EDB9-0D34-48E1-B562-7209DF2C65C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.1TopEarners", "10.1TopEarners\10.1TopEarners.csproj", "{F655EDB9-0D34-48E1-B562-7209DF2C65C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.2ClassGrades", "10.2ClassGrades\10.2ClassGrades.csproj", "{2694DB5C-0DBA-414F-86A3-7A1848AF8978}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.2ClassGrades", "10.2ClassGrades\10.2ClassGrades.csproj", "{2694DB5C-0DBA-414F-86A3-7A1848AF8978}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetDoubleInput", "GetDoubleInput\GetDoubleInput.csproj", "{6EDF2E79-FBB6-443A-97DB-23DF94A42762}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{2694DB5C-0DBA-414F-86A3-7A1848AF8978}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2694DB5C-0DBA-414F-86A3-7A1848AF8978}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2694DB5C-0DBA-414F-86A3-7A1848AF8978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EDF2E79-FBB6-443A-97DB-23DF94A42762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EDF2E79-FBB6-443A-97DB-23DF94A42762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EDF2E79-FBB6-443A-97DB-23DF94A42762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EDF2E79-FBB6-443A-97DB-23DF94A42762}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

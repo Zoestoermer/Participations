@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stoe0002\\Source\\Repos\\Participations\\Participations\\10.2ClassGrades\\10.2ClassGrades.csproj": {}
+    "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\10.2ClassGrades\\10.2ClassGrades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stoe0002\\Source\\Repos\\Participations\\Participations\\10.2ClassGrades\\10.2ClassGrades.csproj": {
+    "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\10.2ClassGrades\\10.2ClassGrades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stoe0002\\Source\\Repos\\Participations\\Participations\\10.2ClassGrades\\10.2ClassGrades.csproj",
+        "projectUniqueName": "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\10.2ClassGrades\\10.2ClassGrades.csproj",
         "projectName": "10.2ClassGrades",
-        "projectPath": "C:\\Users\\stoe0002\\Source\\Repos\\Participations\\Participations\\10.2ClassGrades\\10.2ClassGrades.csproj",
+        "projectPath": "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\10.2ClassGrades\\10.2ClassGrades.csproj",
         "packagesPath": "C:\\Users\\stoe0002\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stoe0002\\Source\\Repos\\Participations\\Participations\\10.2ClassGrades\\obj\\",
+        "outputPath": "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\10.2ClassGrades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

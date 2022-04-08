@@ -1,0 +1,14 @@
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\GetDoubleInput\bin\Debug\netcoreapp3.1\GetDoubleInput.exe
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\GetDoubleInput\bin\Debug\netcoreapp3.1\GetDoubleInput.deps.json
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\GetDoubleInput\bin\Debug\netcoreapp3.1\GetDoubleInput.runtimeconfig.json
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\GetDoubleInput\bin\Debug\netcoreapp3.1\GetDoubleInput.runtimeconfig.dev.json
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\GetDoubleInput\bin\Debug\netcoreapp3.1\GetDoubleInput.dll
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\GetDoubleInput\bin\Debug\netcoreapp3.1\GetDoubleInput.pdb
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\GetDoubleInput\obj\Debug\netcoreapp3.1\GetDoubleInput.csproj.AssemblyReference.cache
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\GetDoubleInput\obj\Debug\netcoreapp3.1\GetDoubleInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\GetDoubleInput\obj\Debug\netcoreapp3.1\GetDoubleInput.AssemblyInfoInputs.cache
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\GetDoubleInput\obj\Debug\netcoreapp3.1\GetDoubleInput.AssemblyInfo.cs
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\GetDoubleInput\obj\Debug\netcoreapp3.1\GetDoubleInput.csproj.CoreCompileInputs.cache
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\GetDoubleInput\obj\Debug\netcoreapp3.1\GetDoubleInput.dll
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\GetDoubleInput\obj\Debug\netcoreapp3.1\GetDoubleInput.pdb
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\GetDoubleInput\obj\Debug\netcoreapp3.1\GetDoubleInput.genruntimeconfig.cache

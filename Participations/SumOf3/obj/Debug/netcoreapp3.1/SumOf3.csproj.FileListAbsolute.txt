@@ -1,0 +1,14 @@
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\SumOf3\bin\Debug\netcoreapp3.1\SumOf3.exe
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\SumOf3\bin\Debug\netcoreapp3.1\SumOf3.deps.json
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\SumOf3\bin\Debug\netcoreapp3.1\SumOf3.runtimeconfig.json
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\SumOf3\bin\Debug\netcoreapp3.1\SumOf3.runtimeconfig.dev.json
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\SumOf3\bin\Debug\netcoreapp3.1\SumOf3.dll
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\SumOf3\bin\Debug\netcoreapp3.1\SumOf3.pdb
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\SumOf3\obj\Debug\netcoreapp3.1\SumOf3.csproj.AssemblyReference.cache
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\SumOf3\obj\Debug\netcoreapp3.1\SumOf3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\SumOf3\obj\Debug\netcoreapp3.1\SumOf3.AssemblyInfoInputs.cache
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\SumOf3\obj\Debug\netcoreapp3.1\SumOf3.AssemblyInfo.cs
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\SumOf3\obj\Debug\netcoreapp3.1\SumOf3.csproj.CoreCompileInputs.cache
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\SumOf3\obj\Debug\netcoreapp3.1\SumOf3.dll
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\SumOf3\obj\Debug\netcoreapp3.1\SumOf3.pdb
+C:\Users\stoe0002\Source\Repos\Zoestoermer\Participations\Participations\SumOf3\obj\Debug\netcoreapp3.1\SumOf3.genruntimeconfig.cache

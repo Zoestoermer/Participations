@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tw7SXajQXFiWOT/ExHs2tEb13XhGNhX4cLPmstqLtncPcon9xDDmEH2+EDQ/u4CblTlYhPcXv5KEz0rMWi/Jwg==",
+  "dgSpecHash": "eJ249iDgt/wBIqosYtZdjdYflCu6iezJE6SlABxYrZpY6THVScPZxSzzwlf5ndY8XgWt77qQeyh+lxNsvQlNSQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\10.2ClassGrades\\10.2ClassGrades.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\stoe0002\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

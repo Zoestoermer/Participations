@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\SumOf3\\SumOf3.csproj",
-      "projectName": "SumOf3",
-      "projectPath": "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\SumOf3\\SumOf3.csproj",
+      "projectUniqueName": "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\Shapes\\Shapes.csproj",
+      "projectName": "Shapes",
+      "projectPath": "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\Shapes\\Shapes.csproj",
       "packagesPath": "C:\\Users\\stoe0002\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\SumOf3\\obj\\",
+      "outputPath": "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\Shapes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

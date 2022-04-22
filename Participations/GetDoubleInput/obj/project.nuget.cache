@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d88dc7Gxe0+8hJ31vBDPtlzb2ETjkAUlpQwVugKgFc+Le8RTC46nJa4JF1kyltm4q7ipLHMEF3FCtN2TCaA1zQ==",
+  "dgSpecHash": "K0NL+waHyRXi5gG83t6rhwXeS6hhNPsc9rHmm84OuxuP7Sl4q/9dL9mplanwrwurNFWPAXRDFOseqQ60So59cQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\GetDoubleInput\\GetDoubleInput.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\stoe0002\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

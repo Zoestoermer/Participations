@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UwColU9osQioPwKADSVw2Nz55/kjGWsCciGKM+r8ig94Sp6r6TSbSgVm3xDOZfRgaDa+6TwapH6LOABHLtNYZg==",
+  "dgSpecHash": "4CpCL/mOXMoRnKlw19KfvLSRRafv1nkdv1uPF1vXGT4UAquUiipKGUyjdcw+2CkE1B9/jFJ2Fzio13++Prqxmg==",
   "success": true,
   "projectFilePath": "C:\\Users\\stoe0002\\Source\\Repos\\Zoestoermer\\Participations\\Participations\\TopEarners\\TopEarners.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\stoe0002\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

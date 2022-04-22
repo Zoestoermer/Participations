@@ -32,8 +32,16 @@ namespace Birds
             }
         }
 
-        public int GetEggs()
+        public int GetEggs(bool isMale)
         {
+            if (isMale)
+            {
+                return 0;
+            }
+            else
+            {
+                return 1;
+            }
             return EggCount;
         }
     }

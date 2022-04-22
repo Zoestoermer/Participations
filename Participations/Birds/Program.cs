@@ -54,7 +54,10 @@ namespace Birds
             }
             
             Console.WriteLine($"Under water minutes for this penguin: {penguin1.CalculateUnderwater()}");
-            Console.WriteLine($"The number of eggs for this penguin: {penguin1.GetEggs()}");
+            Console.WriteLine($"The number of eggs for this penguin: {penguin1.GetEggs(penguin1.Gender)}");
+            Console.WriteLine($"Under water minutes for this penguin: {penguin2.CalculateUnderwater()}");
+            Console.WriteLine($"The number of eggs for this penguin: {penguin2.GetEggs(penguin2.Gender)}");
+
 
             foreach (Robin robin in robins)
             {
